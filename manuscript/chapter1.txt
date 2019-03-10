@@ -2,6 +2,8 @@
 
 This is some default content for a new Leanpub book.
 
+Hello world!
+
 You can download the manuscript folder containing the plain text files from which this book is generated. That way, you can see how everything in this book is actually written.
 
 Here is the download link for a zip file with the manuscript of this book: [https://github.com/leanpub/default-new-book-content/archive/master.zip](https://github.com/leanpub/default-new-book-content/archive/master.zip).
