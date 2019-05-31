@@ -1,0 +1,29 @@
+Building with Godot
+
+Introduction
+	The Godot way
+Getting Started
+	The Godot Interface
+	Building Nodes
+	Scripting
+Building Apps
+	Building a NewsReader
+	Building a Web Editor
+	Building a Game Tracker
+	Building a Chat app with Firebase
+Building Add Ons for Godot
+	Plugins
+		Editor Plugins
+		Main Screen Plugins
+		Import Plugins
+		Spatial Gizmo Plugins
+		inspector Plugins
+	GDNative Modules
+Godot Asset Library
+	Using the Library
+	Submitting to the Library
+	Updating Your Submission
+Contributing to Godot
+	Documentation
+	Bug Fixing / Reporting
+	New Features
